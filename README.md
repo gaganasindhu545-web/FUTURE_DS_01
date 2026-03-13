@@ -30,4 +30,4 @@ The goal is to help businesses make better decisions using data insights.
 - Improve strategies in lower-performing regions.
 
 ## Dashboard Preview
-dashboard.png
+![Dashboard](dashboard.png)
